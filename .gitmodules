@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BNPmix"]
 	path = BNPmix
-	url = https://github.com/cran/BNPmix
+	url = https://github.com/rcorradin/bnpmix
